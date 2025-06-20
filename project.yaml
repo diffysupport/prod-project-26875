@@ -72,7 +72,7 @@ advanced:
     custom_js: ''
     custom_css: ''
     mock_content: {  }
-    sensitivity: 15
+    sensitivity: 30
     night_mode: false
     retina_images: false
     single_ip: false
@@ -89,7 +89,7 @@ advanced:
         after_login_selector: ''
     performance:
         workers_production: 30
-        workers_nonproduction: 10
+        workers_nonproduction: '5'
         workers_production_delay: 0
         workers_nonproduction_delay: 0
     stabilize: true
