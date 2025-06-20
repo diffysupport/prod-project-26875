@@ -89,7 +89,7 @@ advanced:
         after_login_selector: ''
     performance:
         workers_production: 30
-        workers_nonproduction: '5'
+        workers_nonproduction: '4'
         workers_production_delay: 0
         workers_nonproduction_delay: 0
     stabilize: true
